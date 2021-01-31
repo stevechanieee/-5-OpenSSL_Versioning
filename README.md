@@ -17,6 +17,15 @@ CPython version: 3.7.7
 OpenSSL version: OpenSSL 1.1.0l  10 Sep 2019
 
 
+docker-compose version 1.26.0-rc3, build 46118bc5
+docker-py version: 4.2.0
+CPython version: 3.7.6
+OpenSSL version: OpenSSL 1.1.1d  10 Sep 2019
+
+RC. Release Candidate (software close to final release quality)
+
+
+
 https://docs.docker.com/compose/release-notes/
 1.28.2 - (2021-01-26)
 1.28.0 - (2021-01-20)
@@ -26,3 +35,7 @@ https://docs.docker.com/compose/release-notes/
 1.27.1 - (2020-09-10)
 1.27.0 - (2020-09-07)
 1.26.2 - (2020-07-02)
+
+
+
+This issue affects OpenSSL 1.0.2 which is out of support and no longer receiving public updates. OpenSSL 1.1.1 is not vulnerable to this issue. 
