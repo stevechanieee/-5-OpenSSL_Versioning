@@ -39,3 +39,31 @@ https://docs.docker.com/compose/release-notes/
 
 
 This issue affects OpenSSL 1.0.2 which is out of support and no longer receiving public updates. OpenSSL 1.1.1 is not vulnerable to this issue. 
+
+
+
+
+
+
+
+This issue affects OpenSSL 1.0.2 which is out of support and no longer receiving public updates. OpenSSL 1.1.1 is not vulnerable to this issue. Reported by Robert ...
+
+
+
+
+docker-compose version 1.23.2
+https://github.com/docker/compose/issues/7686
+
+
+The
+
+https://www.ibm.com/support/knowledgecenter/SSKRA3_1.0.6/va/InstallingSolution/install_docker_components.html
+
+docker-compose version 1.23.2
+
+
+https://www.openssl.org/news/vulnerabilities.html
+
+
+
+
