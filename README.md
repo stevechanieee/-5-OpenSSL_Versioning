@@ -1,1 +1,28 @@
-# OpenSSL
+
+
+
+
+
+docker-compose version 1.23.2, build 1110ad0
+docker-py version: 3.7.0
+CPython version: 2.7.13
+OpenSSL version: OpenSSL 1.0.1e-fips 11 Feb 2013   
+
+
+
+
+docker-compose version 1.26.2, build eefe0d31
+docker-py version: 4.2.2
+CPython version: 3.7.7
+OpenSSL version: OpenSSL 1.1.0l  10 Sep 2019
+
+
+https://docs.docker.com/compose/release-notes/
+1.28.2 - (2021-01-26)
+1.28.0 - (2021-01-20)
+1.27.4 - (2020-09-24)
+1.27.3 - (2020-09-16)
+1.27.2 - (2020-09-10)
+1.27.1 - (2020-09-10)
+1.27.0 - (2020-09-07)
+1.26.2 - (2020-07-02)
