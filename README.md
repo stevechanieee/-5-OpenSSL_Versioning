@@ -17,30 +17,30 @@ Various Github commentators/contributors have noted, such as on 10 August 2015, 
 
 Yet, various offerings (e.g., various docker-compose offerings) still incorporate outdated OpenSSL versions.
 
-*Example #1*
-$ docker-compose version
-docker-compose version 1.23.2, build 1110ad0
-docker-py version: 3.7.3
-CPython version: 2.7.16
-OpenSSL version: OpenSSL 1.1.1c  28 May 2019  
+*Example #1*<br/>
+$ docker-compose version<br/>
+docker-compose version 1.23.2, build 1110ad0<br/>
+docker-py version: 3.7.3<br/>
+CPython version: 2.7.16<br/>
+OpenSSL version: OpenSSL 1.1.1c  28 May 2019<br/>
 
 *Source: https://dockerlabs.collabnix.com/intermediate/workshop/DockerCompose/version_Command.html*
 
-*Example #2*
-$ docker-compose version
-docker-compose version 1.26.2, build eefe0d31
-docker-py version: 4.2.2
-CPython version: 3.7.7
-OpenSSL version: OpenSSL 1.1.0l  10 Sep 2019
+*Example #2*<br/>
+$ docker-compose version<br/>
+docker-compose version 1.26.2, build eefe0d31<br/>
+docker-py version: 4.2.2<br/>
+CPython version: 3.7.7<br/>
+OpenSSL version: OpenSSL 1.1.0l  10 Sep 2019<br/>
 
 *Source: https://github.com/docker/compose/issues/7686*
 
-*Example #2*
-$ docker-compose version
-docker-compose version 1.26.0-rc3, build 46118bc5 (rc refers to Release Candidate, which is software that is nearing final release quality assurance/quality control)
-docker-py version: 4.2.0
-CPython version: 3.7.6
-OpenSSL version: OpenSSL 1.1.1d  10 Sep 2019
+*Example #2*<br/>
+$ docker-compose version<br/>
+docker-compose version 1.26.0-rc3, build 46118bc5 (rc refers to Release Candidate, which is software that is nearing final release quality assurance/quality control)<br/>
+docker-py version: 4.2.0<br/>
+CPython version: 3.7.6<br/>
+OpenSSL version: OpenSSL 1.1.1d  10 Sep 2019<br/>
 
 *Source: https://github.com/docker/compose/issues/7348*
 
