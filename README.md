@@ -1,6 +1,7 @@
 ## OpenSSL Versioning ##
 
 OpenSSL is often utilized by Internet servers and Hypertext Transfer Protocol Secure (HTTPS) websites, wherein the identify of the involved website/web service is validated, and the information flowing between the website/web service and user is encrypted. 
+
 <br/>Source: https://https.cio.gov
 
 The Common Vulnerabilities and Exposures (CVE) system lists publicly known information security issues. CVE-2020-1971 (https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2020-1971) was a High Severity issue reported as an OpenSSL advisory (https://www.openssl.org/news/secadv/20201208.txt) on 8 December 2020. In essence, an issue affected OpenSSL 1.0.2, which is out of support and no longer receiving public updates. OpenSSL 1.1.1i and beyond is not vulnerable to this issue. 
