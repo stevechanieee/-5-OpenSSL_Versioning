@@ -1,4 +1,4 @@
-*OpenSSL Versioning*
+## OpenSSL Versioning ##
 
 OpenSSL is often utilized by Internet servers and Hypertext Transfer Protocol Secure (HTTPS) websites, wherein the identify of the involved website/web service is validated, adn the information flowing between the website/web service and user is encrypted. 
 Source: https://https.cio.gov
