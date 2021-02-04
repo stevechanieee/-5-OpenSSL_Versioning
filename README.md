@@ -15,7 +15,7 @@ Various Github commentators/contributors have noted, such as on 10 August 2015, 
 
 *Source: https://github.com/docker/compose/issues/1834*
 
-Yet, various offerings (e.g., various docker-compose offerings) still incorporate outdated OpenSSL versions.
+Yet, various offerings (e.g., various docker-compose offerings) may still continue to incorporate outdated OpenSSL versions.
 
 *Example #1*<br/>
 $ docker-compose version<br/>
