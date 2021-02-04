@@ -57,7 +57,7 @@ Other CVEs are available at the National Vulnerability Database (NVD) (https://n
 The Docker-Compose versions are available here: https://docs.docker.com/compose/release-notes/
 For convenience, please refer to Table 1 below.
 
-# Table 1 #
+### Table 1 ###
 
 |Version Number|Release Date |
 |--------------|-------------|
