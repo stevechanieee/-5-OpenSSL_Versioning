@@ -52,9 +52,9 @@ OpenSSL CVEs are available here: https://www.openssl.org/news/vulnerabilities.ht
 
 Other CVEs are available at the National Vulnerability Database (NVD) (https://nvd.nist.gov) and U.S. Computer Emergency Response Team (CERT)-CISA (https://us-cert.cisa.gov) portals.
 
-## Docker-Compose versions ## 
+## Docker Compose versions ## 
 
-The Docker-Compose versions are available here: https://docs.docker.com/compose/release-notes/
+The Docker Compose versions are available here: https://docs.docker.com/compose/release-notes/
 For convenience, please refer to Table 1 below.
 
 ### Table 1 ###
@@ -70,7 +70,7 @@ For convenience, please refer to Table 1 below.
 |1.27.0        | (2020-09-07)|
 |1.26.2        | (2020-07-02)|
 
-
+It should be noted that Docker Compose v1.28.0 might still be deploying with 1.1.1h. OpenSSL v1.1.1i and above have the security update per CVE-2020-1971. This should be confirmed.
 
 
 
