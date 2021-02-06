@@ -82,14 +82,14 @@ The notion of a script to ensure the bundling of an apropos (e.g., patched) Open
 *Source: https://github.com/docker/compose/issues/1834*<br/>
 *Source: https://github.com/docker/compose/issues/1601*<br/>
 
-the lastest OpenSSL tarball source files can be found here: https://www.openssl.org/source/. This page asserts that the latest stable version is the 1.1.1 series, which is the OpenSSL.org's Long Term Support (LTS) version, which is slated to be supported until 11 September 2023.
+The lastest OpenSSL tarball source files can be found here: https://www.openssl.org/source/. This page asserts that the latest stable version is the 1.1.1 series, which is the OpenSSL.org's Long Term Support (LTS) version, which is slated to be supported until 11 September 2023.
 
 Many vendors, who bundle OpenSSL, "will selectively retrofit urgent fixes to an older version of code, in order to maintain [Application Programming Interface] API stability and predictability. This is especially true for 'long-term release' and appliance platforms."
 
 ### Interim Findings ###
 
-As of this commit, to for the utilization of Docker Compose:<br/>
-* The most current version of Docker Compose is v1.28.2.<br/>
+As of this commit, for the utilization of Docker Compose, the following steps are recommended:<br/>
+* Ensure that the most current version of Docker Compose is v1.28.2.<br/>
 * Confirm that the bundled OpenSSL version, for the utilized verion of Docker Compose, is v1.1.1i (which has the security update for CVE-2020-1971).<br/>
 
 
