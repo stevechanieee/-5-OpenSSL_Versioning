@@ -11,7 +11,7 @@ The Common Vulnerabilities and Exposures (CVE) system lists publicly known Infor
 
 ## Bundled OpenSSL versions ## 
 
-Various Github commentators/contributors have noted, such as on 10 August 2015, that bundled OpenSSL versions may be out of date.
+Various Github commentators/contributors have noted, such as on 10 August 2015, that various bundled OpenSSL versions may be out of date.
 
 *Source: https://github.com/docker/compose/issues/1834*
 
