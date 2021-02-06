@@ -62,7 +62,7 @@ For convenience, please refer to Table 1 below.
 
 |Version Number|Release Date |
 |--------------|-------------|
-|1.28.2        | (2021-01-26)|
+|**1.28.2**        | (2021-01-26)|
 |1.28.0        | (2021-01-20)|
 |1.27.4        | (2020-09-24)|
 |1.27.3        | (2020-09-16)|
@@ -71,7 +71,7 @@ For convenience, please refer to Table 1 below.
 |1.27.0        | (2020-09-07)|
 |1.26.2        | (2020-07-02)|
 
-It should be noted that Docker Compose v1.28.0 might still be deploying with OpenSSL v1.1.1h (i.e., vulnerable to CVE-2020-1971). OpenSSL v1.1.1i and above have the security update for CVE-2020-1971. The OpenSSL version should be confirmed when utilizing the bundled versions of Docker Compose v1.28.0 and prior. 
+It should be noted that Docker Compose v1.28.0 might still be deploying with OpenSSL v1.1.1h (i.e., vulnerable to CVE-2020-1971). OpenSSL v1.1.1i and above have the security update for CVE-2020-1971. The OpenSSL version should be confirmed when utilizing the bundled versions of Docker Compose v1.28.0 and prior.  The current version of Docker Compose is v1.28.2.
 
 This Docker Compose bundling issue has persisted for quite some time (e.g., https://github.com/docker/compose/issues/1601). However, the bundling issue has also been noted in Linux binaries (as well as Mac binaries).
 
