@@ -4,7 +4,7 @@ OpenSSL is often utilized by Internet servers and Hypertext Transfer Protocol Se
 
 *Source: https://https.cio.gov*
 
-The Common Vulnerabilities and Exposures (CVE) system lists publicly known Information Security (InfoSec) issues. CVE-2020-1971 (https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2020-1971) was a High Severity issue reported as an OpenSSL advisory (https://www.openssl.org/news/secadv/20201208.txt) on 8 December 2020. In essence, an issue affected OpenSSL v1.0.2, which is out of support and no longer receiving public updates. OpenSSL v1.1.1i and beyond is not vulnerable to the referenced issue. 
+The Common Vulnerabilities and Exposures (CVE) system lists publicly known Information Security (InfoSec) issues. CVE-2020-1971 (https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2020-1971) was a High Severity issue reported as an OpenSSL advisory (https://www.openssl.org/news/secadv/20201208.txt) on 8 December 2020. In brief, a vulnerability issue affected OpenSSL v1.0.2, which is out of support and no longer receiving public updates. OpenSSL v1.1.1i and beyond, theoretically, is no longer vulnerable to the referenced issue. 
 
 *Source: https://www.openssl.org/news/vulnerabilities-1.0.2.html*
 
