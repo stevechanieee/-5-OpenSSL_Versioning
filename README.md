@@ -1,4 +1,5 @@
-# OpenSSL Versioning # ## (as an exemplar of the software supply chain need for transparency and verifiability so as to facilitate integrity) ##
+# OpenSSL Versioning # 
+## (as an exemplar of the software supply chain need for transparency and verifiability so as to facilitate integrity) ##
 
 OpenSSL is often utilized by Internet servers and Hypertext Transfer Protocol Secure (HTTPS) websites, wherein the identify of the involved website/web service is validated, and the information flowing between the website/web service and user is encrypted. 
 
