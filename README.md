@@ -44,7 +44,7 @@ OpenSSL version: OpenSSL 1.1.1d  10 Sep 2019<br/>
 
 *Source: https://github.com/docker/compose/issues/7348*
 
-By out of date, please recall that OpenSSL v1.1.1i and beyond is not vulnerable to the issue identified in CVE-2020-1971. Along this vein, the Cybersecurity & Infrastructure Security Agency (CISA) notes that, "OpenSSL has released a security update to address a vulnerability affecting all versions of 1.0.2 and 1.1.1 released before version 1.1.1i. An attacker could exploit this vulnerability to cause a denial-of-service condition."
+By out of date, please recall that OpenSSL v1.1.1i and beyond is, theoretically, no longer vulnerable to the issue identified in CVE-2020-1971. Along this vein, the Cybersecurity & Infrastructure Security Agency (CISA) notes that, "OpenSSL has released a security update to address a vulnerability affecting all versions of 1.0.2 and 1.1.1 released before version 1.1.1i. An attacker could exploit this vulnerability to cause a denial-of-service condition."
 
 *Source: https://us-cert.cisa.gov/ncas/current-activity/2020/12/08/openssl-releases-security-update*
 
