@@ -73,5 +73,7 @@ For convenience, please refer to Table 1 below.
 
 It should be noted that Docker Compose v1.28.0 might still be deploying with OpenSSL v1.1.1h (i.e., vulnerable to CVE-2020-1971). OpenSSL v1.1.1i and above have the security update for CVE-2020-1971. The OpenSSL version should be confirmed when utilizing the bundled versions of Docker Compose v1.28.0 and prior. 
 
+This bundling issue has persisted for quite some time (e.g., https://github.com/docker/compose/issues/1601).
+
 
 
