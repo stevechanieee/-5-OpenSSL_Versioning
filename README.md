@@ -48,7 +48,7 @@ By out of date, please recall that OpenSSL v1.1.1i and beyond is, theoretically,
 
 *Source: https://us-cert.cisa.gov/ncas/current-activity/2020/12/08/openssl-releases-security-update*
 
-Apart from CVE-2020-1971, additional openSSL CVEs are available here: https://www.openssl.org/news/vulnerabilities.html.
+Apart from CVE-2020-1971, additional OpenSSL CVEs are available here: https://www.openssl.org/news/vulnerabilities.html.
 
 Also, other CVEs are available at the National Vulnerability Database (NVD) (https://nvd.nist.gov) and U.S. Computer Emergency Response Team (CERT)-CISA (https://us-cert.cisa.gov) portals.
 
